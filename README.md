@@ -34,7 +34,7 @@ I'm a Web Developer and MEAL Consultant.
 - **Back-End:**
   
    <img align="center" alt="Java" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-   <img align="center" alt="JS" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" alt="JS" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ajax/ajax-original.svg">
    <img align="center" alt="PHP" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
    <img align="center" alt="VB.NET" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg">
 
